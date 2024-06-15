@@ -1,0 +1,149 @@
+On the 0th level of the search tree
+- Adding the 1 feature with accuracy: 0.748
+- Adding the 2 feature with accuracy: 0.718
+- Adding the 3 feature with accuracy: 0.768
+- Adding the 4 feature with accuracy: 0.712
+- Adding the 5 feature with accuracy: 0.722
+- Adding the 6 feature with accuracy: 0.74
+- Adding the 7 feature with accuracy: 0.728
+- Adding the 8 feature with accuracy: 0.762
+- Adding the 9 feature with accuracy: 0.818
+- Adding the 10 feature with accuracy: 0.736
+- Adding the 11 feature with accuracy: 0.738
+- Adding the 12 feature with accuracy: 0.72
+
+On level 0, added feature 8 to current set. With current features: [8] and local maximum accuracy 0.818
+
+On the 1th level of the search tree
+- Adding the 1 feature with accuracy: 0.848
+- Adding the 2 feature with accuracy: 0.848
+- Adding the 3 feature with accuracy: 0.958
+- Adding the 4 feature with accuracy: 0.852
+- Adding the 5 feature with accuracy: 0.864
+- Adding the 6 feature with accuracy: 0.828
+- Adding the 7 feature with accuracy: 0.854
+- Adding the 8 feature with accuracy: 0.838
+- Adding the 10 feature with accuracy: 0.846
+- Adding the 11 feature with accuracy: 0.848
+- Adding the 12 feature with accuracy: 0.856
+
+On level 1, added feature 2 to current set. With current features: [8, 2] and local maximum accuracy 0.958
+
+On the 2th level of the search tree
+- Adding the 1 feature with accuracy: 0.932
+- Adding the 2 feature with accuracy: 0.908
+- Adding the 4 feature with accuracy: 0.928
+- Adding the 5 feature with accuracy: 0.942
+- Adding the 6 feature with accuracy: 0.924
+- Adding the 7 feature with accuracy: 0.89
+- Adding the 8 feature with accuracy: 0.916
+- Adding the 10 feature with accuracy: 0.904
+- Adding the 11 feature with accuracy: 0.908
+- Adding the 12 feature with accuracy: 0.926
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 2, added feature 4 to current set. With current features: [8, 2, 4] and local maximum accuracy 0.942
+
+On the 3th level of the search tree
+- Adding the 1 feature with accuracy: 0.888
+- Adding the 2 feature with accuracy: 0.896
+- Adding the 4 feature with accuracy: 0.904
+- Adding the 6 feature with accuracy: 0.878
+- Adding the 7 feature with accuracy: 0.878
+- Adding the 8 feature with accuracy: 0.912
+- Adding the 10 feature with accuracy: 0.9
+- Adding the 11 feature with accuracy: 0.904
+- Adding the 12 feature with accuracy: 0.906
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 3, added feature 7 to current set. With current features: [8, 2, 4, 7] and local maximum accuracy 0.912
+
+On the 4th level of the search tree
+- Adding the 1 feature with accuracy: 0.856
+- Adding the 2 feature with accuracy: 0.862
+- Adding the 4 feature with accuracy: 0.878
+- Adding the 6 feature with accuracy: 0.86
+- Adding the 7 feature with accuracy: 0.888
+- Adding the 10 feature with accuracy: 0.884
+- Adding the 11 feature with accuracy: 0.872
+- Adding the 12 feature with accuracy: 0.886
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 4, added feature 6 to current set. With current features: [8, 2, 4, 7, 6] and local maximum accuracy 0.888
+
+On the 5th level of the search tree
+- Adding the 1 feature with accuracy: 0.842
+- Adding the 2 feature with accuracy: 0.832
+- Adding the 4 feature with accuracy: 0.828
+- Adding the 6 feature with accuracy: 0.812
+- Adding the 10 feature with accuracy: 0.842
+- Adding the 11 feature with accuracy: 0.828
+- Adding the 12 feature with accuracy: 0.848
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 5, added feature 11 to current set. With current features: [8, 2, 4, 7, 6, 11] and local maximum accuracy 0.848
+
+On the 6th level of the search tree
+- Adding the 1 feature with accuracy: 0.85
+- Adding the 2 feature with accuracy: 0.816
+- Adding the 4 feature with accuracy: 0.81
+- Adding the 6 feature with accuracy: 0.818
+- Adding the 10 feature with accuracy: 0.818
+- Adding the 11 feature with accuracy: 0.804
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 6, added feature 0 to current set. With current features: [8, 2, 4, 7, 6, 11, 0] and local maximum accuracy 0.85
+
+On the 7th level of the search tree
+- Adding the 2 feature with accuracy: 0.818
+- Adding the 4 feature with accuracy: 0.81
+- Adding the 6 feature with accuracy: 0.782
+- Adding the 10 feature with accuracy: 0.814
+- Adding the 11 feature with accuracy: 0.8
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 7, added feature 1 to current set. With current features: [8, 2, 4, 7, 6, 11, 0, 1] and local maximum accuracy 0.818
+
+On the 8th level of the search tree
+- Adding the 4 feature with accuracy: 0.808
+- Adding the 6 feature with accuracy: 0.81
+- Adding the 10 feature with accuracy: 0.78
+- Adding the 11 feature with accuracy: 0.814
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 8, added feature 10 to current set. With current features: [8, 2, 4, 7, 6, 11, 0, 1, 10] and local maximum accuracy 0.814
+
+On the 9th level of the search tree
+- Adding the 4 feature with accuracy: 0.788
+- Adding the 6 feature with accuracy: 0.774
+- Adding the 10 feature with accuracy: 0.762
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 9, added feature 3 to current set. With current features: [8, 2, 4, 7, 6, 11, 0, 1, 10, 3] and local maximum accuracy 0.788
+
+On the 10th level of the search tree
+- Adding the 6 feature with accuracy: 0.782
+- Adding the 10 feature with accuracy: 0.748
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 10, added feature 5 to current set. With current features: [8, 2, 4, 7, 6, 11, 0, 1, 10, 3, 5] and local maximum accuracy 0.782
+
+On the 11th level of the search tree
+- Adding the 10 feature with accuracy: 0.742
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 11, added feature 9 to current set. With current features: [8, 2, 4, 7, 6, 11, 0, 1, 10, 3, 5, 9] and local maximum accuracy 0.742
+
+
+
+Finished. The best subset is [8, 2] (indexes) [9, 3] (features), which has an accuracy of 0.958

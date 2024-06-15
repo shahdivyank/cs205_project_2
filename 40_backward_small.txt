@@ -1,0 +1,132 @@
+On the 0th level of the search tree
+- Removing the 0 feature with accuracy: 0.726
+- Removing the 1 feature with accuracy: 0.722
+- Removing the 2 feature with accuracy: 0.72
+- Removing the 3 feature with accuracy: 0.73
+- Removing the 4 feature with accuracy: 0.756
+- Removing the 5 feature with accuracy: 0.748
+- Removing the 6 feature with accuracy: 0.764
+- Removing the 7 feature with accuracy: 0.778
+- Removing the 8 feature with accuracy: 0.736
+- Removing the 9 feature with accuracy: 0.782
+- Removing the 10 feature with accuracy: 0.734
+- Removing the 11 feature with accuracy: 0.762
+
+On level 0, removed feature 9 to current set. With current features: [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11] and local maximum accuracy 0.782
+
+On the 1th level of the search tree
+- Removing the 0 feature with accuracy: 0.726
+- Removing the 1 feature with accuracy: 0.76
+- Removing the 2 feature with accuracy: 0.772
+- Removing the 3 feature with accuracy: 0.774
+- Removing the 4 feature with accuracy: 0.786
+- Removing the 5 feature with accuracy: 0.788
+- Removing the 6 feature with accuracy: 0.786
+- Removing the 7 feature with accuracy: 0.784
+- Removing the 8 feature with accuracy: 0.758
+- Removing the 10 feature with accuracy: 0.776
+- Removing the 11 feature with accuracy: 0.784
+
+On level 1, removed feature 5 to current set. With current features: [0, 1, 2, 3, 4, 6, 7, 8, 10, 11] and local maximum accuracy 0.788
+
+On the 2th level of the search tree
+- Removing the 0 feature with accuracy: 0.772
+- Removing the 1 feature with accuracy: 0.792
+- Removing the 2 feature with accuracy: 0.768
+- Removing the 3 feature with accuracy: 0.814
+- Removing the 4 feature with accuracy: 0.82
+- Removing the 6 feature with accuracy: 0.768
+- Removing the 7 feature with accuracy: 0.794
+- Removing the 8 feature with accuracy: 0.748
+- Removing the 10 feature with accuracy: 0.808
+- Removing the 11 feature with accuracy: 0.776
+
+On level 2, removed feature 4 to current set. With current features: [0, 1, 2, 3, 6, 7, 8, 10, 11] and local maximum accuracy 0.82
+
+On the 3th level of the search tree
+- Removing the 0 feature with accuracy: 0.774
+- Removing the 1 feature with accuracy: 0.8
+- Removing the 2 feature with accuracy: 0.786
+- Removing the 3 feature with accuracy: 0.816
+- Removing the 6 feature with accuracy: 0.824
+- Removing the 7 feature with accuracy: 0.826
+- Removing the 8 feature with accuracy: 0.764
+- Removing the 10 feature with accuracy: 0.824
+- Removing the 11 feature with accuracy: 0.792
+
+On level 3, removed feature 7 to current set. With current features: [0, 1, 2, 3, 6, 8, 10, 11] and local maximum accuracy 0.826
+
+On the 4th level of the search tree
+- Removing the 0 feature with accuracy: 0.806
+- Removing the 1 feature with accuracy: 0.8
+- Removing the 2 feature with accuracy: 0.782
+- Removing the 3 feature with accuracy: 0.824
+- Removing the 6 feature with accuracy: 0.836
+- Removing the 8 feature with accuracy: 0.75
+- Removing the 10 feature with accuracy: 0.826
+- Removing the 11 feature with accuracy: 0.812
+
+On level 4, removed feature 6 to current set. With current features: [0, 1, 2, 3, 8, 10, 11] and local maximum accuracy 0.836
+
+On the 5th level of the search tree
+- Removing the 0 feature with accuracy: 0.82
+- Removing the 1 feature with accuracy: 0.822
+- Removing the 2 feature with accuracy: 0.782
+- Removing the 3 feature with accuracy: 0.82
+- Removing the 8 feature with accuracy: 0.764
+- Removing the 10 feature with accuracy: 0.87
+- Removing the 11 feature with accuracy: 0.83
+
+On level 5, removed feature 10 to current set. With current features: [0, 1, 2, 3, 8, 11] and local maximum accuracy 0.87
+
+On the 6th level of the search tree
+- Removing the 0 feature with accuracy: 0.86
+- Removing the 1 feature with accuracy: 0.87
+- Removing the 2 feature with accuracy: 0.788
+- Removing the 3 feature with accuracy: 0.858
+- Removing the 8 feature with accuracy: 0.77
+- Removing the 11 feature with accuracy: 0.876
+
+On level 6, removed feature 11 to current set. With current features: [0, 1, 2, 3, 8] and local maximum accuracy 0.876
+
+On the 7th level of the search tree
+- Removing the 0 feature with accuracy: 0.89
+- Removing the 1 feature with accuracy: 0.904
+- Removing the 2 feature with accuracy: 0.798
+- Removing the 3 feature with accuracy: 0.872
+- Removing the 8 feature with accuracy: 0.748
+
+On level 7, removed feature 1 to current set. With current features: [0, 2, 3, 8] and local maximum accuracy 0.904
+
+On the 8th level of the search tree
+- Removing the 0 feature with accuracy: 0.928
+- Removing the 2 feature with accuracy: 0.846
+- Removing the 3 feature with accuracy: 0.932
+- Removing the 8 feature with accuracy: 0.77
+
+On level 8, removed feature 3 to current set. With current features: [0, 2, 8] and local maximum accuracy 0.932
+
+On the 9th level of the search tree
+- Removing the 0 feature with accuracy: 0.958
+- Removing the 2 feature with accuracy: 0.848
+- Removing the 8 feature with accuracy: 0.806
+
+On level 9, removed feature 0 to current set. With current features: [2, 8] and local maximum accuracy 0.958
+
+On the 10th level of the search tree
+- Removing the 2 feature with accuracy: 0.818
+- Removing the 8 feature with accuracy: 0.768
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 10, removed feature 2 to current set. With current features: [8] and local maximum accuracy 0.818
+
+On the 11th level of the search tree
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 11, removed feature None to current set. With current features: [8] and local maximum accuracy 0.0
+
+
+
+Finished. The best subset is [2, 8] (indexes) [3, 9] (features), which has an accuracy of 0.958

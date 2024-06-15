@@ -1,0 +1,1574 @@
+On the 0th level of the search tree
+- Adding the 1 feature with accuracy: 0.683
+- Adding the 2 feature with accuracy: 0.6894
+- Adding the 3 feature with accuracy: 0.686
+- Adding the 4 feature with accuracy: 0.7206
+- Adding the 5 feature with accuracy: 0.7046
+- Adding the 6 feature with accuracy: 0.691
+- Adding the 7 feature with accuracy: 0.6784
+- Adding the 8 feature with accuracy: 0.6746
+- Adding the 9 feature with accuracy: 0.6882
+- Adding the 10 feature with accuracy: 0.831
+- Adding the 11 feature with accuracy: 0.6918
+- Adding the 12 feature with accuracy: 0.6966
+- Adding the 13 feature with accuracy: 0.696
+- Adding the 14 feature with accuracy: 0.685
+- Adding the 15 feature with accuracy: 0.6898
+- Adding the 16 feature with accuracy: 0.6872
+- Adding the 17 feature with accuracy: 0.682
+- Adding the 18 feature with accuracy: 0.6874
+- Adding the 19 feature with accuracy: 0.6802
+- Adding the 20 feature with accuracy: 0.682
+- Adding the 21 feature with accuracy: 0.6854
+- Adding the 22 feature with accuracy: 0.6874
+- Adding the 23 feature with accuracy: 0.6818
+- Adding the 24 feature with accuracy: 0.6912
+- Adding the 25 feature with accuracy: 0.685
+- Adding the 26 feature with accuracy: 0.6832
+- Adding the 27 feature with accuracy: 0.6776
+- Adding the 28 feature with accuracy: 0.6862
+- Adding the 29 feature with accuracy: 0.6928
+- Adding the 30 feature with accuracy: 0.686
+- Adding the 31 feature with accuracy: 0.6826
+- Adding the 32 feature with accuracy: 0.6976
+- Adding the 33 feature with accuracy: 0.6826
+- Adding the 34 feature with accuracy: 0.6838
+- Adding the 35 feature with accuracy: 0.6866
+- Adding the 36 feature with accuracy: 0.6924
+- Adding the 37 feature with accuracy: 0.694
+- Adding the 38 feature with accuracy: 0.6774
+- Adding the 39 feature with accuracy: 0.6816
+- Adding the 40 feature with accuracy: 0.6764
+- Adding the 41 feature with accuracy: 0.6956
+- Adding the 42 feature with accuracy: 0.6736
+- Adding the 43 feature with accuracy: 0.6836
+- Adding the 44 feature with accuracy: 0.6824
+- Adding the 45 feature with accuracy: 0.6892
+- Adding the 46 feature with accuracy: 0.6912
+- Adding the 47 feature with accuracy: 0.6938
+- Adding the 48 feature with accuracy: 0.6934
+- Adding the 49 feature with accuracy: 0.6726
+- Adding the 50 feature with accuracy: 0.6844
+
+On level 0, added feature 9 to current set. With current features: [9] and local maximum accuracy 0.831
+
+On the 1th level of the search tree
+- Adding the 1 feature with accuracy: 0.835
+- Adding the 2 feature with accuracy: 0.8384
+- Adding the 3 feature with accuracy: 0.8384
+- Adding the 4 feature with accuracy: 0.977
+- Adding the 5 feature with accuracy: 0.8356
+- Adding the 6 feature with accuracy: 0.8398
+- Adding the 7 feature with accuracy: 0.8328
+- Adding the 8 feature with accuracy: 0.8364
+- Adding the 9 feature with accuracy: 0.83
+- Adding the 11 feature with accuracy: 0.831
+- Adding the 12 feature with accuracy: 0.829
+- Adding the 13 feature with accuracy: 0.8276
+- Adding the 14 feature with accuracy: 0.8334
+- Adding the 15 feature with accuracy: 0.8328
+- Adding the 16 feature with accuracy: 0.8332
+- Adding the 17 feature with accuracy: 0.83
+- Adding the 18 feature with accuracy: 0.8334
+- Adding the 19 feature with accuracy: 0.8312
+- Adding the 20 feature with accuracy: 0.836
+- Adding the 21 feature with accuracy: 0.828
+- Adding the 22 feature with accuracy: 0.8398
+- Adding the 23 feature with accuracy: 0.8386
+- Adding the 24 feature with accuracy: 0.8354
+- Adding the 25 feature with accuracy: 0.8318
+- Adding the 26 feature with accuracy: 0.8296
+- Adding the 27 feature with accuracy: 0.8326
+- Adding the 28 feature with accuracy: 0.8354
+- Adding the 29 feature with accuracy: 0.8256
+- Adding the 30 feature with accuracy: 0.839
+- Adding the 31 feature with accuracy: 0.8314
+- Adding the 32 feature with accuracy: 0.835
+- Adding the 33 feature with accuracy: 0.8192
+- Adding the 34 feature with accuracy: 0.8298
+- Adding the 35 feature with accuracy: 0.832
+- Adding the 36 feature with accuracy: 0.8292
+- Adding the 37 feature with accuracy: 0.833
+- Adding the 38 feature with accuracy: 0.8432
+- Adding the 39 feature with accuracy: 0.831
+- Adding the 40 feature with accuracy: 0.8312
+- Adding the 41 feature with accuracy: 0.8388
+- Adding the 42 feature with accuracy: 0.834
+- Adding the 43 feature with accuracy: 0.8288
+- Adding the 44 feature with accuracy: 0.829
+- Adding the 45 feature with accuracy: 0.829
+- Adding the 46 feature with accuracy: 0.8378
+- Adding the 47 feature with accuracy: 0.8302
+- Adding the 48 feature with accuracy: 0.8296
+- Adding the 49 feature with accuracy: 0.8268
+- Adding the 50 feature with accuracy: 0.8332
+
+On level 1, added feature 3 to current set. With current features: [9, 3] and local maximum accuracy 0.977
+
+On the 2th level of the search tree
+- Adding the 1 feature with accuracy: 0.954
+- Adding the 2 feature with accuracy: 0.9488
+- Adding the 3 feature with accuracy: 0.948
+- Adding the 5 feature with accuracy: 0.9526
+- Adding the 6 feature with accuracy: 0.9502
+- Adding the 7 feature with accuracy: 0.9486
+- Adding the 8 feature with accuracy: 0.9494
+- Adding the 9 feature with accuracy: 0.9468
+- Adding the 11 feature with accuracy: 0.9524
+- Adding the 12 feature with accuracy: 0.9532
+- Adding the 13 feature with accuracy: 0.9582
+- Adding the 14 feature with accuracy: 0.9508
+- Adding the 15 feature with accuracy: 0.957
+- Adding the 16 feature with accuracy: 0.9496
+- Adding the 17 feature with accuracy: 0.9544
+- Adding the 18 feature with accuracy: 0.9556
+- Adding the 19 feature with accuracy: 0.953
+- Adding the 20 feature with accuracy: 0.9544
+- Adding the 21 feature with accuracy: 0.9492
+- Adding the 22 feature with accuracy: 0.949
+- Adding the 23 feature with accuracy: 0.9546
+- Adding the 24 feature with accuracy: 0.954
+- Adding the 25 feature with accuracy: 0.9518
+- Adding the 26 feature with accuracy: 0.9546
+- Adding the 27 feature with accuracy: 0.9568
+- Adding the 28 feature with accuracy: 0.9566
+- Adding the 29 feature with accuracy: 0.9514
+- Adding the 30 feature with accuracy: 0.9518
+- Adding the 31 feature with accuracy: 0.952
+- Adding the 32 feature with accuracy: 0.9536
+- Adding the 33 feature with accuracy: 0.95
+- Adding the 34 feature with accuracy: 0.9504
+- Adding the 35 feature with accuracy: 0.9542
+- Adding the 36 feature with accuracy: 0.9532
+- Adding the 37 feature with accuracy: 0.9568
+- Adding the 38 feature with accuracy: 0.9542
+- Adding the 39 feature with accuracy: 0.9506
+- Adding the 40 feature with accuracy: 0.9548
+- Adding the 41 feature with accuracy: 0.953
+- Adding the 42 feature with accuracy: 0.9526
+- Adding the 43 feature with accuracy: 0.9522
+- Adding the 44 feature with accuracy: 0.951
+- Adding the 45 feature with accuracy: 0.957
+- Adding the 46 feature with accuracy: 0.9676
+- Adding the 47 feature with accuracy: 0.9508
+- Adding the 48 feature with accuracy: 0.9582
+- Adding the 49 feature with accuracy: 0.9502
+- Adding the 50 feature with accuracy: 0.9504
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 2, added feature 45 to current set. With current features: [9, 3, 45] and local maximum accuracy 0.9676
+
+On the 3th level of the search tree
+- Adding the 1 feature with accuracy: 0.9392
+- Adding the 2 feature with accuracy: 0.9368
+- Adding the 3 feature with accuracy: 0.9332
+- Adding the 5 feature with accuracy: 0.9368
+- Adding the 6 feature with accuracy: 0.93
+- Adding the 7 feature with accuracy: 0.9376
+- Adding the 8 feature with accuracy: 0.94
+- Adding the 9 feature with accuracy: 0.9332
+- Adding the 11 feature with accuracy: 0.9326
+- Adding the 12 feature with accuracy: 0.9328
+- Adding the 13 feature with accuracy: 0.9352
+- Adding the 14 feature with accuracy: 0.933
+- Adding the 15 feature with accuracy: 0.9384
+- Adding the 16 feature with accuracy: 0.9344
+- Adding the 17 feature with accuracy: 0.9396
+- Adding the 18 feature with accuracy: 0.9412
+- Adding the 19 feature with accuracy: 0.9324
+- Adding the 20 feature with accuracy: 0.9378
+- Adding the 21 feature with accuracy: 0.9366
+- Adding the 22 feature with accuracy: 0.9344
+- Adding the 23 feature with accuracy: 0.9348
+- Adding the 24 feature with accuracy: 0.9394
+- Adding the 25 feature with accuracy: 0.9348
+- Adding the 26 feature with accuracy: 0.9388
+- Adding the 27 feature with accuracy: 0.9394
+- Adding the 28 feature with accuracy: 0.936
+- Adding the 29 feature with accuracy: 0.9316
+- Adding the 30 feature with accuracy: 0.94
+- Adding the 31 feature with accuracy: 0.934
+- Adding the 32 feature with accuracy: 0.9328
+- Adding the 33 feature with accuracy: 0.9392
+- Adding the 34 feature with accuracy: 0.9384
+- Adding the 35 feature with accuracy: 0.9346
+- Adding the 36 feature with accuracy: 0.939
+- Adding the 37 feature with accuracy: 0.9384
+- Adding the 38 feature with accuracy: 0.9354
+- Adding the 39 feature with accuracy: 0.9396
+- Adding the 40 feature with accuracy: 0.9402
+- Adding the 41 feature with accuracy: 0.9364
+- Adding the 42 feature with accuracy: 0.937
+- Adding the 43 feature with accuracy: 0.9344
+- Adding the 44 feature with accuracy: 0.9344
+- Adding the 45 feature with accuracy: 0.937
+- Adding the 47 feature with accuracy: 0.9384
+- Adding the 48 feature with accuracy: 0.9346
+- Adding the 49 feature with accuracy: 0.936
+- Adding the 50 feature with accuracy: 0.9408
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 3, added feature 17 to current set. With current features: [9, 3, 45, 17] and local maximum accuracy 0.9412
+
+On the 4th level of the search tree
+- Adding the 1 feature with accuracy: 0.914
+- Adding the 2 feature with accuracy: 0.9042
+- Adding the 3 feature with accuracy: 0.902
+- Adding the 5 feature with accuracy: 0.9034
+- Adding the 6 feature with accuracy: 0.9038
+- Adding the 7 feature with accuracy: 0.91
+- Adding the 8 feature with accuracy: 0.9078
+- Adding the 9 feature with accuracy: 0.8956
+- Adding the 11 feature with accuracy: 0.9014
+- Adding the 12 feature with accuracy: 0.9066
+- Adding the 13 feature with accuracy: 0.9024
+- Adding the 14 feature with accuracy: 0.8958
+- Adding the 15 feature with accuracy: 0.908
+- Adding the 16 feature with accuracy: 0.9006
+- Adding the 17 feature with accuracy: 0.9114
+- Adding the 19 feature with accuracy: 0.902
+- Adding the 20 feature with accuracy: 0.904
+- Adding the 21 feature with accuracy: 0.9054
+- Adding the 22 feature with accuracy: 0.9074
+- Adding the 23 feature with accuracy: 0.9044
+- Adding the 24 feature with accuracy: 0.9002
+- Adding the 25 feature with accuracy: 0.9032
+- Adding the 26 feature with accuracy: 0.9068
+- Adding the 27 feature with accuracy: 0.9046
+- Adding the 28 feature with accuracy: 0.906
+- Adding the 29 feature with accuracy: 0.9012
+- Adding the 30 feature with accuracy: 0.9096
+- Adding the 31 feature with accuracy: 0.899
+- Adding the 32 feature with accuracy: 0.9058
+- Adding the 33 feature with accuracy: 0.9052
+- Adding the 34 feature with accuracy: 0.9084
+- Adding the 35 feature with accuracy: 0.8966
+- Adding the 36 feature with accuracy: 0.9072
+- Adding the 37 feature with accuracy: 0.9036
+- Adding the 38 feature with accuracy: 0.8988
+- Adding the 39 feature with accuracy: 0.9038
+- Adding the 40 feature with accuracy: 0.9028
+- Adding the 41 feature with accuracy: 0.909
+- Adding the 42 feature with accuracy: 0.9088
+- Adding the 43 feature with accuracy: 0.9068
+- Adding the 44 feature with accuracy: 0.9024
+- Adding the 45 feature with accuracy: 0.9002
+- Adding the 47 feature with accuracy: 0.9072
+- Adding the 48 feature with accuracy: 0.9056
+- Adding the 49 feature with accuracy: 0.905
+- Adding the 50 feature with accuracy: 0.9086
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 4, added feature 0 to current set. With current features: [9, 3, 45, 17, 0] and local maximum accuracy 0.914
+
+On the 5th level of the search tree
+- Adding the 2 feature with accuracy: 0.8742
+- Adding the 3 feature with accuracy: 0.8744
+- Adding the 5 feature with accuracy: 0.874
+- Adding the 6 feature with accuracy: 0.8756
+- Adding the 7 feature with accuracy: 0.8732
+- Adding the 8 feature with accuracy: 0.8834
+- Adding the 9 feature with accuracy: 0.8696
+- Adding the 11 feature with accuracy: 0.8778
+- Adding the 12 feature with accuracy: 0.8762
+- Adding the 13 feature with accuracy: 0.8732
+- Adding the 14 feature with accuracy: 0.8774
+- Adding the 15 feature with accuracy: 0.8792
+- Adding the 16 feature with accuracy: 0.8776
+- Adding the 17 feature with accuracy: 0.871
+- Adding the 19 feature with accuracy: 0.882
+- Adding the 20 feature with accuracy: 0.8728
+- Adding the 21 feature with accuracy: 0.8804
+- Adding the 22 feature with accuracy: 0.8818
+- Adding the 23 feature with accuracy: 0.8752
+- Adding the 24 feature with accuracy: 0.8724
+- Adding the 25 feature with accuracy: 0.8728
+- Adding the 26 feature with accuracy: 0.8826
+- Adding the 27 feature with accuracy: 0.8814
+- Adding the 28 feature with accuracy: 0.8784
+- Adding the 29 feature with accuracy: 0.87
+- Adding the 30 feature with accuracy: 0.8724
+- Adding the 31 feature with accuracy: 0.8732
+- Adding the 32 feature with accuracy: 0.8826
+- Adding the 33 feature with accuracy: 0.874
+- Adding the 34 feature with accuracy: 0.8756
+- Adding the 35 feature with accuracy: 0.873
+- Adding the 36 feature with accuracy: 0.8712
+- Adding the 37 feature with accuracy: 0.8812
+- Adding the 38 feature with accuracy: 0.8784
+- Adding the 39 feature with accuracy: 0.88
+- Adding the 40 feature with accuracy: 0.8694
+- Adding the 41 feature with accuracy: 0.8748
+- Adding the 42 feature with accuracy: 0.8736
+- Adding the 43 feature with accuracy: 0.873
+- Adding the 44 feature with accuracy: 0.8756
+- Adding the 45 feature with accuracy: 0.8744
+- Adding the 47 feature with accuracy: 0.8816
+- Adding the 48 feature with accuracy: 0.8706
+- Adding the 49 feature with accuracy: 0.8776
+- Adding the 50 feature with accuracy: 0.881
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 5, added feature 7 to current set. With current features: [9, 3, 45, 17, 0, 7] and local maximum accuracy 0.8834
+
+On the 6th level of the search tree
+- Adding the 2 feature with accuracy: 0.854
+- Adding the 3 feature with accuracy: 0.8512
+- Adding the 5 feature with accuracy: 0.8478
+- Adding the 6 feature with accuracy: 0.8418
+- Adding the 7 feature with accuracy: 0.8526
+- Adding the 9 feature with accuracy: 0.8442
+- Adding the 11 feature with accuracy: 0.855
+- Adding the 12 feature with accuracy: 0.849
+- Adding the 13 feature with accuracy: 0.8468
+- Adding the 14 feature with accuracy: 0.8512
+- Adding the 15 feature with accuracy: 0.85
+- Adding the 16 feature with accuracy: 0.847
+- Adding the 17 feature with accuracy: 0.8474
+- Adding the 19 feature with accuracy: 0.8534
+- Adding the 20 feature with accuracy: 0.8546
+- Adding the 21 feature with accuracy: 0.851
+- Adding the 22 feature with accuracy: 0.8622
+- Adding the 23 feature with accuracy: 0.849
+- Adding the 24 feature with accuracy: 0.8508
+- Adding the 25 feature with accuracy: 0.848
+- Adding the 26 feature with accuracy: 0.8456
+- Adding the 27 feature with accuracy: 0.8538
+- Adding the 28 feature with accuracy: 0.8494
+- Adding the 29 feature with accuracy: 0.8482
+- Adding the 30 feature with accuracy: 0.8448
+- Adding the 31 feature with accuracy: 0.8464
+- Adding the 32 feature with accuracy: 0.8534
+- Adding the 33 feature with accuracy: 0.856
+- Adding the 34 feature with accuracy: 0.8534
+- Adding the 35 feature with accuracy: 0.8488
+- Adding the 36 feature with accuracy: 0.8492
+- Adding the 37 feature with accuracy: 0.8478
+- Adding the 38 feature with accuracy: 0.8592
+- Adding the 39 feature with accuracy: 0.8434
+- Adding the 40 feature with accuracy: 0.844
+- Adding the 41 feature with accuracy: 0.8452
+- Adding the 42 feature with accuracy: 0.8462
+- Adding the 43 feature with accuracy: 0.8532
+- Adding the 44 feature with accuracy: 0.8436
+- Adding the 45 feature with accuracy: 0.851
+- Adding the 47 feature with accuracy: 0.8488
+- Adding the 48 feature with accuracy: 0.846
+- Adding the 49 feature with accuracy: 0.8508
+- Adding the 50 feature with accuracy: 0.8434
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 6, added feature 21 to current set. With current features: [9, 3, 45, 17, 0, 7, 21] and local maximum accuracy 0.8622
+
+On the 7th level of the search tree
+- Adding the 2 feature with accuracy: 0.8288
+- Adding the 3 feature with accuracy: 0.8242
+- Adding the 5 feature with accuracy: 0.8238
+- Adding the 6 feature with accuracy: 0.825
+- Adding the 7 feature with accuracy: 0.835
+- Adding the 9 feature with accuracy: 0.8236
+- Adding the 11 feature with accuracy: 0.8278
+- Adding the 12 feature with accuracy: 0.8284
+- Adding the 13 feature with accuracy: 0.8292
+- Adding the 14 feature with accuracy: 0.8282
+- Adding the 15 feature with accuracy: 0.8314
+- Adding the 16 feature with accuracy: 0.8314
+- Adding the 17 feature with accuracy: 0.8314
+- Adding the 19 feature with accuracy: 0.8282
+- Adding the 20 feature with accuracy: 0.8286
+- Adding the 21 feature with accuracy: 0.8278
+- Adding the 23 feature with accuracy: 0.8292
+- Adding the 24 feature with accuracy: 0.8316
+- Adding the 25 feature with accuracy: 0.8218
+- Adding the 26 feature with accuracy: 0.8332
+- Adding the 27 feature with accuracy: 0.8334
+- Adding the 28 feature with accuracy: 0.8256
+- Adding the 29 feature with accuracy: 0.823
+- Adding the 30 feature with accuracy: 0.827
+- Adding the 31 feature with accuracy: 0.8246
+- Adding the 32 feature with accuracy: 0.8292
+- Adding the 33 feature with accuracy: 0.8364
+- Adding the 34 feature with accuracy: 0.8304
+- Adding the 35 feature with accuracy: 0.828
+- Adding the 36 feature with accuracy: 0.8212
+- Adding the 37 feature with accuracy: 0.8302
+- Adding the 38 feature with accuracy: 0.8284
+- Adding the 39 feature with accuracy: 0.8226
+- Adding the 40 feature with accuracy: 0.8262
+- Adding the 41 feature with accuracy: 0.827
+- Adding the 42 feature with accuracy: 0.8262
+- Adding the 43 feature with accuracy: 0.8346
+- Adding the 44 feature with accuracy: 0.8268
+- Adding the 45 feature with accuracy: 0.8278
+- Adding the 47 feature with accuracy: 0.8248
+- Adding the 48 feature with accuracy: 0.8302
+- Adding the 49 feature with accuracy: 0.8312
+- Adding the 50 feature with accuracy: 0.8216
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 7, added feature 32 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32] and local maximum accuracy 0.8364
+
+On the 8th level of the search tree
+- Adding the 2 feature with accuracy: 0.8132
+- Adding the 3 feature with accuracy: 0.8094
+- Adding the 5 feature with accuracy: 0.8178
+- Adding the 6 feature with accuracy: 0.8022
+- Adding the 7 feature with accuracy: 0.8118
+- Adding the 9 feature with accuracy: 0.8114
+- Adding the 11 feature with accuracy: 0.8152
+- Adding the 12 feature with accuracy: 0.8134
+- Adding the 13 feature with accuracy: 0.811
+- Adding the 14 feature with accuracy: 0.816
+- Adding the 15 feature with accuracy: 0.8142
+- Adding the 16 feature with accuracy: 0.809
+- Adding the 17 feature with accuracy: 0.8152
+- Adding the 19 feature with accuracy: 0.8164
+- Adding the 20 feature with accuracy: 0.8138
+- Adding the 21 feature with accuracy: 0.813
+- Adding the 23 feature with accuracy: 0.8028
+- Adding the 24 feature with accuracy: 0.821
+- Adding the 25 feature with accuracy: 0.8092
+- Adding the 26 feature with accuracy: 0.816
+- Adding the 27 feature with accuracy: 0.8106
+- Adding the 28 feature with accuracy: 0.821
+- Adding the 29 feature with accuracy: 0.8094
+- Adding the 30 feature with accuracy: 0.8076
+- Adding the 31 feature with accuracy: 0.8104
+- Adding the 32 feature with accuracy: 0.8178
+- Adding the 34 feature with accuracy: 0.8108
+- Adding the 35 feature with accuracy: 0.8064
+- Adding the 36 feature with accuracy: 0.8076
+- Adding the 37 feature with accuracy: 0.8196
+- Adding the 38 feature with accuracy: 0.8188
+- Adding the 39 feature with accuracy: 0.8118
+- Adding the 40 feature with accuracy: 0.8082
+- Adding the 41 feature with accuracy: 0.8152
+- Adding the 42 feature with accuracy: 0.8088
+- Adding the 43 feature with accuracy: 0.824
+- Adding the 44 feature with accuracy: 0.815
+- Adding the 45 feature with accuracy: 0.8058
+- Adding the 47 feature with accuracy: 0.8122
+- Adding the 48 feature with accuracy: 0.8022
+- Adding the 49 feature with accuracy: 0.813
+- Adding the 50 feature with accuracy: 0.809
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 8, added feature 42 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42] and local maximum accuracy 0.824
+
+On the 9th level of the search tree
+- Adding the 2 feature with accuracy: 0.7956
+- Adding the 3 feature with accuracy: 0.7938
+- Adding the 5 feature with accuracy: 0.7956
+- Adding the 6 feature with accuracy: 0.793
+- Adding the 7 feature with accuracy: 0.7994
+- Adding the 9 feature with accuracy: 0.7972
+- Adding the 11 feature with accuracy: 0.7988
+- Adding the 12 feature with accuracy: 0.8
+- Adding the 13 feature with accuracy: 0.7946
+- Adding the 14 feature with accuracy: 0.8038
+- Adding the 15 feature with accuracy: 0.7964
+- Adding the 16 feature with accuracy: 0.7904
+- Adding the 17 feature with accuracy: 0.8072
+- Adding the 19 feature with accuracy: 0.8048
+- Adding the 20 feature with accuracy: 0.7946
+- Adding the 21 feature with accuracy: 0.7938
+- Adding the 23 feature with accuracy: 0.793
+- Adding the 24 feature with accuracy: 0.8058
+- Adding the 25 feature with accuracy: 0.8038
+- Adding the 26 feature with accuracy: 0.7988
+- Adding the 27 feature with accuracy: 0.8028
+- Adding the 28 feature with accuracy: 0.795
+- Adding the 29 feature with accuracy: 0.7976
+- Adding the 30 feature with accuracy: 0.798
+- Adding the 31 feature with accuracy: 0.7942
+- Adding the 32 feature with accuracy: 0.7922
+- Adding the 34 feature with accuracy: 0.7912
+- Adding the 35 feature with accuracy: 0.7964
+- Adding the 36 feature with accuracy: 0.7958
+- Adding the 37 feature with accuracy: 0.7964
+- Adding the 38 feature with accuracy: 0.8018
+- Adding the 39 feature with accuracy: 0.7994
+- Adding the 40 feature with accuracy: 0.798
+- Adding the 41 feature with accuracy: 0.7898
+- Adding the 42 feature with accuracy: 0.798
+- Adding the 44 feature with accuracy: 0.7942
+- Adding the 45 feature with accuracy: 0.7896
+- Adding the 47 feature with accuracy: 0.7978
+- Adding the 48 feature with accuracy: 0.792
+- Adding the 49 feature with accuracy: 0.7988
+- Adding the 50 feature with accuracy: 0.7896
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 9, added feature 16 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16] and local maximum accuracy 0.8072
+
+On the 10th level of the search tree
+- Adding the 2 feature with accuracy: 0.7836
+- Adding the 3 feature with accuracy: 0.7852
+- Adding the 5 feature with accuracy: 0.7824
+- Adding the 6 feature with accuracy: 0.7856
+- Adding the 7 feature with accuracy: 0.79
+- Adding the 9 feature with accuracy: 0.78
+- Adding the 11 feature with accuracy: 0.7812
+- Adding the 12 feature with accuracy: 0.7798
+- Adding the 13 feature with accuracy: 0.7786
+- Adding the 14 feature with accuracy: 0.7886
+- Adding the 15 feature with accuracy: 0.774
+- Adding the 16 feature with accuracy: 0.7764
+- Adding the 19 feature with accuracy: 0.7886
+- Adding the 20 feature with accuracy: 0.7812
+- Adding the 21 feature with accuracy: 0.788
+- Adding the 23 feature with accuracy: 0.7814
+- Adding the 24 feature with accuracy: 0.7866
+- Adding the 25 feature with accuracy: 0.7796
+- Adding the 26 feature with accuracy: 0.7838
+- Adding the 27 feature with accuracy: 0.7826
+- Adding the 28 feature with accuracy: 0.7784
+- Adding the 29 feature with accuracy: 0.7832
+- Adding the 30 feature with accuracy: 0.785
+- Adding the 31 feature with accuracy: 0.7846
+- Adding the 32 feature with accuracy: 0.7796
+- Adding the 34 feature with accuracy: 0.7754
+- Adding the 35 feature with accuracy: 0.7782
+- Adding the 36 feature with accuracy: 0.787
+- Adding the 37 feature with accuracy: 0.7812
+- Adding the 38 feature with accuracy: 0.7854
+- Adding the 39 feature with accuracy: 0.7914
+- Adding the 40 feature with accuracy: 0.7872
+- Adding the 41 feature with accuracy: 0.7796
+- Adding the 42 feature with accuracy: 0.7846
+- Adding the 44 feature with accuracy: 0.7844
+- Adding the 45 feature with accuracy: 0.787
+- Adding the 47 feature with accuracy: 0.7806
+- Adding the 48 feature with accuracy: 0.7808
+- Adding the 49 feature with accuracy: 0.7774
+- Adding the 50 feature with accuracy: 0.7864
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 10, added feature 38 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38] and local maximum accuracy 0.7914
+
+On the 11th level of the search tree
+- Adding the 2 feature with accuracy: 0.7706
+- Adding the 3 feature with accuracy: 0.778
+- Adding the 5 feature with accuracy: 0.7638
+- Adding the 6 feature with accuracy: 0.7762
+- Adding the 7 feature with accuracy: 0.775
+- Adding the 9 feature with accuracy: 0.7762
+- Adding the 11 feature with accuracy: 0.7768
+- Adding the 12 feature with accuracy: 0.7754
+- Adding the 13 feature with accuracy: 0.768
+- Adding the 14 feature with accuracy: 0.7768
+- Adding the 15 feature with accuracy: 0.7664
+- Adding the 16 feature with accuracy: 0.7678
+- Adding the 19 feature with accuracy: 0.7776
+- Adding the 20 feature with accuracy: 0.7708
+- Adding the 21 feature with accuracy: 0.7668
+- Adding the 23 feature with accuracy: 0.7758
+- Adding the 24 feature with accuracy: 0.7736
+- Adding the 25 feature with accuracy: 0.7742
+- Adding the 26 feature with accuracy: 0.7758
+- Adding the 27 feature with accuracy: 0.7708
+- Adding the 28 feature with accuracy: 0.7722
+- Adding the 29 feature with accuracy: 0.772
+- Adding the 30 feature with accuracy: 0.7726
+- Adding the 31 feature with accuracy: 0.777
+- Adding the 32 feature with accuracy: 0.7692
+- Adding the 34 feature with accuracy: 0.7676
+- Adding the 35 feature with accuracy: 0.7698
+- Adding the 36 feature with accuracy: 0.771
+- Adding the 37 feature with accuracy: 0.7744
+- Adding the 38 feature with accuracy: 0.7688
+- Adding the 40 feature with accuracy: 0.7714
+- Adding the 41 feature with accuracy: 0.7668
+- Adding the 42 feature with accuracy: 0.7706
+- Adding the 44 feature with accuracy: 0.7724
+- Adding the 45 feature with accuracy: 0.7728
+- Adding the 47 feature with accuracy: 0.766
+- Adding the 48 feature with accuracy: 0.767
+- Adding the 49 feature with accuracy: 0.7762
+- Adding the 50 feature with accuracy: 0.7754
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 11, added feature 2 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2] and local maximum accuracy 0.778
+
+On the 12th level of the search tree
+- Adding the 2 feature with accuracy: 0.7646
+- Adding the 5 feature with accuracy: 0.7528
+- Adding the 6 feature with accuracy: 0.7542
+- Adding the 7 feature with accuracy: 0.7608
+- Adding the 9 feature with accuracy: 0.7662
+- Adding the 11 feature with accuracy: 0.765
+- Adding the 12 feature with accuracy: 0.7522
+- Adding the 13 feature with accuracy: 0.7562
+- Adding the 14 feature with accuracy: 0.765
+- Adding the 15 feature with accuracy: 0.7542
+- Adding the 16 feature with accuracy: 0.756
+- Adding the 19 feature with accuracy: 0.7602
+- Adding the 20 feature with accuracy: 0.752
+- Adding the 21 feature with accuracy: 0.759
+- Adding the 23 feature with accuracy: 0.7612
+- Adding the 24 feature with accuracy: 0.7738
+- Adding the 25 feature with accuracy: 0.7614
+- Adding the 26 feature with accuracy: 0.756
+- Adding the 27 feature with accuracy: 0.7512
+- Adding the 28 feature with accuracy: 0.7612
+- Adding the 29 feature with accuracy: 0.7602
+- Adding the 30 feature with accuracy: 0.7582
+- Adding the 31 feature with accuracy: 0.76
+- Adding the 32 feature with accuracy: 0.757
+- Adding the 34 feature with accuracy: 0.7642
+- Adding the 35 feature with accuracy: 0.7594
+- Adding the 36 feature with accuracy: 0.76
+- Adding the 37 feature with accuracy: 0.7636
+- Adding the 38 feature with accuracy: 0.7584
+- Adding the 40 feature with accuracy: 0.7512
+- Adding the 41 feature with accuracy: 0.7526
+- Adding the 42 feature with accuracy: 0.7692
+- Adding the 44 feature with accuracy: 0.7596
+- Adding the 45 feature with accuracy: 0.7522
+- Adding the 47 feature with accuracy: 0.7552
+- Adding the 48 feature with accuracy: 0.7502
+- Adding the 49 feature with accuracy: 0.7578
+- Adding the 50 feature with accuracy: 0.764
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 12, added feature 23 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23] and local maximum accuracy 0.7738
+
+On the 13th level of the search tree
+- Adding the 2 feature with accuracy: 0.755
+- Adding the 5 feature with accuracy: 0.7528
+- Adding the 6 feature with accuracy: 0.7514
+- Adding the 7 feature with accuracy: 0.7512
+- Adding the 9 feature with accuracy: 0.7542
+- Adding the 11 feature with accuracy: 0.761
+- Adding the 12 feature with accuracy: 0.7498
+- Adding the 13 feature with accuracy: 0.7578
+- Adding the 14 feature with accuracy: 0.7542
+- Adding the 15 feature with accuracy: 0.7526
+- Adding the 16 feature with accuracy: 0.7602
+- Adding the 19 feature with accuracy: 0.7532
+- Adding the 20 feature with accuracy: 0.7494
+- Adding the 21 feature with accuracy: 0.7546
+- Adding the 23 feature with accuracy: 0.7542
+- Adding the 25 feature with accuracy: 0.7552
+- Adding the 26 feature with accuracy: 0.7476
+- Adding the 27 feature with accuracy: 0.7582
+- Adding the 28 feature with accuracy: 0.7528
+- Adding the 29 feature with accuracy: 0.7566
+- Adding the 30 feature with accuracy: 0.7546
+- Adding the 31 feature with accuracy: 0.7558
+- Adding the 32 feature with accuracy: 0.7508
+- Adding the 34 feature with accuracy: 0.7546
+- Adding the 35 feature with accuracy: 0.7554
+- Adding the 36 feature with accuracy: 0.757
+- Adding the 37 feature with accuracy: 0.7616
+- Adding the 38 feature with accuracy: 0.7548
+- Adding the 40 feature with accuracy: 0.754
+- Adding the 41 feature with accuracy: 0.7486
+- Adding the 42 feature with accuracy: 0.754
+- Adding the 44 feature with accuracy: 0.7568
+- Adding the 45 feature with accuracy: 0.7528
+- Adding the 47 feature with accuracy: 0.7458
+- Adding the 48 feature with accuracy: 0.7528
+- Adding the 49 feature with accuracy: 0.7602
+- Adding the 50 feature with accuracy: 0.759
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 13, added feature 36 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36] and local maximum accuracy 0.7616
+
+On the 14th level of the search tree
+- Adding the 2 feature with accuracy: 0.7422
+- Adding the 5 feature with accuracy: 0.7434
+- Adding the 6 feature with accuracy: 0.7482
+- Adding the 7 feature with accuracy: 0.7452
+- Adding the 9 feature with accuracy: 0.7474
+- Adding the 11 feature with accuracy: 0.7542
+- Adding the 12 feature with accuracy: 0.7516
+- Adding the 13 feature with accuracy: 0.745
+- Adding the 14 feature with accuracy: 0.7506
+- Adding the 15 feature with accuracy: 0.7404
+- Adding the 16 feature with accuracy: 0.7414
+- Adding the 19 feature with accuracy: 0.7428
+- Adding the 20 feature with accuracy: 0.7474
+- Adding the 21 feature with accuracy: 0.7432
+- Adding the 23 feature with accuracy: 0.7474
+- Adding the 25 feature with accuracy: 0.7488
+- Adding the 26 feature with accuracy: 0.7432
+- Adding the 27 feature with accuracy: 0.7452
+- Adding the 28 feature with accuracy: 0.7454
+- Adding the 29 feature with accuracy: 0.7468
+- Adding the 30 feature with accuracy: 0.7438
+- Adding the 31 feature with accuracy: 0.7406
+- Adding the 32 feature with accuracy: 0.7536
+- Adding the 34 feature with accuracy: 0.7458
+- Adding the 35 feature with accuracy: 0.752
+- Adding the 36 feature with accuracy: 0.745
+- Adding the 38 feature with accuracy: 0.749
+- Adding the 40 feature with accuracy: 0.7486
+- Adding the 41 feature with accuracy: 0.7436
+- Adding the 42 feature with accuracy: 0.7454
+- Adding the 44 feature with accuracy: 0.7546
+- Adding the 45 feature with accuracy: 0.7506
+- Adding the 47 feature with accuracy: 0.7464
+- Adding the 48 feature with accuracy: 0.739
+- Adding the 49 feature with accuracy: 0.75
+- Adding the 50 feature with accuracy: 0.745
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 14, added feature 43 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43] and local maximum accuracy 0.7546
+
+On the 15th level of the search tree
+- Adding the 2 feature with accuracy: 0.7396
+- Adding the 5 feature with accuracy: 0.7346
+- Adding the 6 feature with accuracy: 0.7426
+- Adding the 7 feature with accuracy: 0.7354
+- Adding the 9 feature with accuracy: 0.7382
+- Adding the 11 feature with accuracy: 0.7446
+- Adding the 12 feature with accuracy: 0.7466
+- Adding the 13 feature with accuracy: 0.7338
+- Adding the 14 feature with accuracy: 0.7408
+- Adding the 15 feature with accuracy: 0.7328
+- Adding the 16 feature with accuracy: 0.7446
+- Adding the 19 feature with accuracy: 0.738
+- Adding the 20 feature with accuracy: 0.7364
+- Adding the 21 feature with accuracy: 0.7384
+- Adding the 23 feature with accuracy: 0.7354
+- Adding the 25 feature with accuracy: 0.7378
+- Adding the 26 feature with accuracy: 0.7306
+- Adding the 27 feature with accuracy: 0.7394
+- Adding the 28 feature with accuracy: 0.7388
+- Adding the 29 feature with accuracy: 0.743
+- Adding the 30 feature with accuracy: 0.7436
+- Adding the 31 feature with accuracy: 0.7458
+- Adding the 32 feature with accuracy: 0.7386
+- Adding the 34 feature with accuracy: 0.7412
+- Adding the 35 feature with accuracy: 0.7382
+- Adding the 36 feature with accuracy: 0.7368
+- Adding the 38 feature with accuracy: 0.7432
+- Adding the 40 feature with accuracy: 0.7498
+- Adding the 41 feature with accuracy: 0.7352
+- Adding the 42 feature with accuracy: 0.741
+- Adding the 45 feature with accuracy: 0.7442
+- Adding the 47 feature with accuracy: 0.74
+- Adding the 48 feature with accuracy: 0.734
+- Adding the 49 feature with accuracy: 0.735
+- Adding the 50 feature with accuracy: 0.738
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 15, added feature 39 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39] and local maximum accuracy 0.7498
+
+On the 16th level of the search tree
+- Adding the 2 feature with accuracy: 0.733
+- Adding the 5 feature with accuracy: 0.7276
+- Adding the 6 feature with accuracy: 0.7326
+- Adding the 7 feature with accuracy: 0.7358
+- Adding the 9 feature with accuracy: 0.7298
+- Adding the 11 feature with accuracy: 0.741
+- Adding the 12 feature with accuracy: 0.7424
+- Adding the 13 feature with accuracy: 0.7232
+- Adding the 14 feature with accuracy: 0.7382
+- Adding the 15 feature with accuracy: 0.7272
+- Adding the 16 feature with accuracy: 0.7416
+- Adding the 19 feature with accuracy: 0.7426
+- Adding the 20 feature with accuracy: 0.7336
+- Adding the 21 feature with accuracy: 0.7294
+- Adding the 23 feature with accuracy: 0.7376
+- Adding the 25 feature with accuracy: 0.7354
+- Adding the 26 feature with accuracy: 0.733
+- Adding the 27 feature with accuracy: 0.7332
+- Adding the 28 feature with accuracy: 0.735
+- Adding the 29 feature with accuracy: 0.7378
+- Adding the 30 feature with accuracy: 0.7396
+- Adding the 31 feature with accuracy: 0.7434
+- Adding the 32 feature with accuracy: 0.7344
+- Adding the 34 feature with accuracy: 0.7344
+- Adding the 35 feature with accuracy: 0.7304
+- Adding the 36 feature with accuracy: 0.735
+- Adding the 38 feature with accuracy: 0.7408
+- Adding the 41 feature with accuracy: 0.7308
+- Adding the 42 feature with accuracy: 0.7302
+- Adding the 45 feature with accuracy: 0.735
+- Adding the 47 feature with accuracy: 0.726
+- Adding the 48 feature with accuracy: 0.7332
+- Adding the 49 feature with accuracy: 0.7332
+- Adding the 50 feature with accuracy: 0.7366
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 16, added feature 30 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30] and local maximum accuracy 0.7434
+
+On the 17th level of the search tree
+- Adding the 2 feature with accuracy: 0.7332
+- Adding the 5 feature with accuracy: 0.729
+- Adding the 6 feature with accuracy: 0.7256
+- Adding the 7 feature with accuracy: 0.7304
+- Adding the 9 feature with accuracy: 0.7244
+- Adding the 11 feature with accuracy: 0.7292
+- Adding the 12 feature with accuracy: 0.7354
+- Adding the 13 feature with accuracy: 0.7252
+- Adding the 14 feature with accuracy: 0.7312
+- Adding the 15 feature with accuracy: 0.7254
+- Adding the 16 feature with accuracy: 0.7332
+- Adding the 19 feature with accuracy: 0.7314
+- Adding the 20 feature with accuracy: 0.731
+- Adding the 21 feature with accuracy: 0.731
+- Adding the 23 feature with accuracy: 0.7286
+- Adding the 25 feature with accuracy: 0.7264
+- Adding the 26 feature with accuracy: 0.7342
+- Adding the 27 feature with accuracy: 0.7226
+- Adding the 28 feature with accuracy: 0.735
+- Adding the 29 feature with accuracy: 0.7322
+- Adding the 30 feature with accuracy: 0.7264
+- Adding the 32 feature with accuracy: 0.7298
+- Adding the 34 feature with accuracy: 0.7392
+- Adding the 35 feature with accuracy: 0.7256
+- Adding the 36 feature with accuracy: 0.7264
+- Adding the 38 feature with accuracy: 0.7338
+- Adding the 41 feature with accuracy: 0.7304
+- Adding the 42 feature with accuracy: 0.7252
+- Adding the 45 feature with accuracy: 0.7308
+- Adding the 47 feature with accuracy: 0.722
+- Adding the 48 feature with accuracy: 0.7336
+- Adding the 49 feature with accuracy: 0.728
+- Adding the 50 feature with accuracy: 0.726
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 17, added feature 33 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33] and local maximum accuracy 0.7392
+
+On the 18th level of the search tree
+- Adding the 2 feature with accuracy: 0.7304
+- Adding the 5 feature with accuracy: 0.7258
+- Adding the 6 feature with accuracy: 0.7274
+- Adding the 7 feature with accuracy: 0.7202
+- Adding the 9 feature with accuracy: 0.7242
+- Adding the 11 feature with accuracy: 0.7272
+- Adding the 12 feature with accuracy: 0.7322
+- Adding the 13 feature with accuracy: 0.7202
+- Adding the 14 feature with accuracy: 0.7228
+- Adding the 15 feature with accuracy: 0.7192
+- Adding the 16 feature with accuracy: 0.7236
+- Adding the 19 feature with accuracy: 0.7196
+- Adding the 20 feature with accuracy: 0.7264
+- Adding the 21 feature with accuracy: 0.7214
+- Adding the 23 feature with accuracy: 0.72
+- Adding the 25 feature with accuracy: 0.722
+- Adding the 26 feature with accuracy: 0.72
+- Adding the 27 feature with accuracy: 0.7242
+- Adding the 28 feature with accuracy: 0.7236
+- Adding the 29 feature with accuracy: 0.729
+- Adding the 30 feature with accuracy: 0.7224
+- Adding the 32 feature with accuracy: 0.7252
+- Adding the 35 feature with accuracy: 0.7262
+- Adding the 36 feature with accuracy: 0.7254
+- Adding the 38 feature with accuracy: 0.7238
+- Adding the 41 feature with accuracy: 0.7268
+- Adding the 42 feature with accuracy: 0.7232
+- Adding the 45 feature with accuracy: 0.7296
+- Adding the 47 feature with accuracy: 0.7238
+- Adding the 48 feature with accuracy: 0.7236
+- Adding the 49 feature with accuracy: 0.7258
+- Adding the 50 feature with accuracy: 0.7236
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 18, added feature 11 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11] and local maximum accuracy 0.7322
+
+On the 19th level of the search tree
+- Adding the 2 feature with accuracy: 0.7216
+- Adding the 5 feature with accuracy: 0.7232
+- Adding the 6 feature with accuracy: 0.7236
+- Adding the 7 feature with accuracy: 0.7248
+- Adding the 9 feature with accuracy: 0.7224
+- Adding the 11 feature with accuracy: 0.7224
+- Adding the 13 feature with accuracy: 0.7276
+- Adding the 14 feature with accuracy: 0.7252
+- Adding the 15 feature with accuracy: 0.7124
+- Adding the 16 feature with accuracy: 0.7242
+- Adding the 19 feature with accuracy: 0.7202
+- Adding the 20 feature with accuracy: 0.7282
+- Adding the 21 feature with accuracy: 0.724
+- Adding the 23 feature with accuracy: 0.7266
+- Adding the 25 feature with accuracy: 0.72
+- Adding the 26 feature with accuracy: 0.7252
+- Adding the 27 feature with accuracy: 0.7214
+- Adding the 28 feature with accuracy: 0.7278
+- Adding the 29 feature with accuracy: 0.723
+- Adding the 30 feature with accuracy: 0.728
+- Adding the 32 feature with accuracy: 0.7216
+- Adding the 35 feature with accuracy: 0.7278
+- Adding the 36 feature with accuracy: 0.7214
+- Adding the 38 feature with accuracy: 0.726
+- Adding the 41 feature with accuracy: 0.7228
+- Adding the 42 feature with accuracy: 0.716
+- Adding the 45 feature with accuracy: 0.7238
+- Adding the 47 feature with accuracy: 0.72
+- Adding the 48 feature with accuracy: 0.7204
+- Adding the 49 feature with accuracy: 0.7158
+- Adding the 50 feature with accuracy: 0.7234
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 19, added feature 19 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19] and local maximum accuracy 0.7282
+
+On the 20th level of the search tree
+- Adding the 2 feature with accuracy: 0.7124
+- Adding the 5 feature with accuracy: 0.7226
+- Adding the 6 feature with accuracy: 0.7286
+- Adding the 7 feature with accuracy: 0.7204
+- Adding the 9 feature with accuracy: 0.7234
+- Adding the 11 feature with accuracy: 0.7202
+- Adding the 13 feature with accuracy: 0.7226
+- Adding the 14 feature with accuracy: 0.7252
+- Adding the 15 feature with accuracy: 0.712
+- Adding the 16 feature with accuracy: 0.7218
+- Adding the 19 feature with accuracy: 0.7138
+- Adding the 21 feature with accuracy: 0.7198
+- Adding the 23 feature with accuracy: 0.7214
+- Adding the 25 feature with accuracy: 0.724
+- Adding the 26 feature with accuracy: 0.7204
+- Adding the 27 feature with accuracy: 0.723
+- Adding the 28 feature with accuracy: 0.7194
+- Adding the 29 feature with accuracy: 0.7198
+- Adding the 30 feature with accuracy: 0.7238
+- Adding the 32 feature with accuracy: 0.7136
+- Adding the 35 feature with accuracy: 0.7188
+- Adding the 36 feature with accuracy: 0.7224
+- Adding the 38 feature with accuracy: 0.7318
+- Adding the 41 feature with accuracy: 0.7182
+- Adding the 42 feature with accuracy: 0.7186
+- Adding the 45 feature with accuracy: 0.7278
+- Adding the 47 feature with accuracy: 0.7172
+- Adding the 48 feature with accuracy: 0.7224
+- Adding the 49 feature with accuracy: 0.7202
+- Adding the 50 feature with accuracy: 0.723
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 20, added feature 37 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37] and local maximum accuracy 0.7318
+
+On the 21th level of the search tree
+- Adding the 2 feature with accuracy: 0.713
+- Adding the 5 feature with accuracy: 0.7236
+- Adding the 6 feature with accuracy: 0.727
+- Adding the 7 feature with accuracy: 0.7194
+- Adding the 9 feature with accuracy: 0.718
+- Adding the 11 feature with accuracy: 0.7134
+- Adding the 13 feature with accuracy: 0.7164
+- Adding the 14 feature with accuracy: 0.7266
+- Adding the 15 feature with accuracy: 0.7088
+- Adding the 16 feature with accuracy: 0.7108
+- Adding the 19 feature with accuracy: 0.707
+- Adding the 21 feature with accuracy: 0.7148
+- Adding the 23 feature with accuracy: 0.7194
+- Adding the 25 feature with accuracy: 0.718
+- Adding the 26 feature with accuracy: 0.7174
+- Adding the 27 feature with accuracy: 0.7206
+- Adding the 28 feature with accuracy: 0.7162
+- Adding the 29 feature with accuracy: 0.718
+- Adding the 30 feature with accuracy: 0.7262
+- Adding the 32 feature with accuracy: 0.7132
+- Adding the 35 feature with accuracy: 0.7186
+- Adding the 36 feature with accuracy: 0.7212
+- Adding the 41 feature with accuracy: 0.7148
+- Adding the 42 feature with accuracy: 0.7154
+- Adding the 45 feature with accuracy: 0.7168
+- Adding the 47 feature with accuracy: 0.7106
+- Adding the 48 feature with accuracy: 0.7186
+- Adding the 49 feature with accuracy: 0.7152
+- Adding the 50 feature with accuracy: 0.7168
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 21, added feature 5 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5] and local maximum accuracy 0.727
+
+On the 22th level of the search tree
+- Adding the 2 feature with accuracy: 0.719
+- Adding the 5 feature with accuracy: 0.7238
+- Adding the 7 feature with accuracy: 0.7236
+- Adding the 9 feature with accuracy: 0.7138
+- Adding the 11 feature with accuracy: 0.7096
+- Adding the 13 feature with accuracy: 0.7158
+- Adding the 14 feature with accuracy: 0.7222
+- Adding the 15 feature with accuracy: 0.7116
+- Adding the 16 feature with accuracy: 0.717
+- Adding the 19 feature with accuracy: 0.712
+- Adding the 21 feature with accuracy: 0.715
+- Adding the 23 feature with accuracy: 0.7148
+- Adding the 25 feature with accuracy: 0.7104
+- Adding the 26 feature with accuracy: 0.7152
+- Adding the 27 feature with accuracy: 0.7136
+- Adding the 28 feature with accuracy: 0.72
+- Adding the 29 feature with accuracy: 0.7108
+- Adding the 30 feature with accuracy: 0.7196
+- Adding the 32 feature with accuracy: 0.7058
+- Adding the 35 feature with accuracy: 0.7136
+- Adding the 36 feature with accuracy: 0.7154
+- Adding the 41 feature with accuracy: 0.7082
+- Adding the 42 feature with accuracy: 0.7144
+- Adding the 45 feature with accuracy: 0.712
+- Adding the 47 feature with accuracy: 0.7084
+- Adding the 48 feature with accuracy: 0.7138
+- Adding the 49 feature with accuracy: 0.7168
+- Adding the 50 feature with accuracy: 0.7188
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 22, added feature 4 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4] and local maximum accuracy 0.7238
+
+On the 23th level of the search tree
+- Adding the 2 feature with accuracy: 0.7176
+- Adding the 7 feature with accuracy: 0.7132
+- Adding the 9 feature with accuracy: 0.7112
+- Adding the 11 feature with accuracy: 0.7066
+- Adding the 13 feature with accuracy: 0.7092
+- Adding the 14 feature with accuracy: 0.7164
+- Adding the 15 feature with accuracy: 0.715
+- Adding the 16 feature with accuracy: 0.7268
+- Adding the 19 feature with accuracy: 0.7108
+- Adding the 21 feature with accuracy: 0.7154
+- Adding the 23 feature with accuracy: 0.7118
+- Adding the 25 feature with accuracy: 0.7188
+- Adding the 26 feature with accuracy: 0.7192
+- Adding the 27 feature with accuracy: 0.7132
+- Adding the 28 feature with accuracy: 0.7216
+- Adding the 29 feature with accuracy: 0.7162
+- Adding the 30 feature with accuracy: 0.718
+- Adding the 32 feature with accuracy: 0.7162
+- Adding the 35 feature with accuracy: 0.714
+- Adding the 36 feature with accuracy: 0.7118
+- Adding the 41 feature with accuracy: 0.7142
+- Adding the 42 feature with accuracy: 0.715
+- Adding the 45 feature with accuracy: 0.7096
+- Adding the 47 feature with accuracy: 0.715
+- Adding the 48 feature with accuracy: 0.7152
+- Adding the 49 feature with accuracy: 0.711
+- Adding the 50 feature with accuracy: 0.7096
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 23, added feature 15 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15] and local maximum accuracy 0.7268
+
+On the 24th level of the search tree
+- Adding the 2 feature with accuracy: 0.7144
+- Adding the 7 feature with accuracy: 0.7126
+- Adding the 9 feature with accuracy: 0.7118
+- Adding the 11 feature with accuracy: 0.7092
+- Adding the 13 feature with accuracy: 0.7102
+- Adding the 14 feature with accuracy: 0.7168
+- Adding the 15 feature with accuracy: 0.7114
+- Adding the 19 feature with accuracy: 0.71
+- Adding the 21 feature with accuracy: 0.7176
+- Adding the 23 feature with accuracy: 0.7106
+- Adding the 25 feature with accuracy: 0.71
+- Adding the 26 feature with accuracy: 0.7108
+- Adding the 27 feature with accuracy: 0.7126
+- Adding the 28 feature with accuracy: 0.7112
+- Adding the 29 feature with accuracy: 0.7126
+- Adding the 30 feature with accuracy: 0.718
+- Adding the 32 feature with accuracy: 0.7086
+- Adding the 35 feature with accuracy: 0.7168
+- Adding the 36 feature with accuracy: 0.7072
+- Adding the 41 feature with accuracy: 0.707
+- Adding the 42 feature with accuracy: 0.7148
+- Adding the 45 feature with accuracy: 0.7064
+- Adding the 47 feature with accuracy: 0.715
+- Adding the 48 feature with accuracy: 0.7108
+- Adding the 49 feature with accuracy: 0.713
+- Adding the 50 feature with accuracy: 0.709
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 24, added feature 29 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29] and local maximum accuracy 0.718
+
+On the 25th level of the search tree
+- Adding the 2 feature with accuracy: 0.7082
+- Adding the 7 feature with accuracy: 0.7076
+- Adding the 9 feature with accuracy: 0.701
+- Adding the 11 feature with accuracy: 0.7124
+- Adding the 13 feature with accuracy: 0.702
+- Adding the 14 feature with accuracy: 0.7122
+- Adding the 15 feature with accuracy: 0.7064
+- Adding the 19 feature with accuracy: 0.706
+- Adding the 21 feature with accuracy: 0.7076
+- Adding the 23 feature with accuracy: 0.7086
+- Adding the 25 feature with accuracy: 0.702
+- Adding the 26 feature with accuracy: 0.7092
+- Adding the 27 feature with accuracy: 0.7052
+- Adding the 28 feature with accuracy: 0.702
+- Adding the 29 feature with accuracy: 0.7092
+- Adding the 32 feature with accuracy: 0.6962
+- Adding the 35 feature with accuracy: 0.7062
+- Adding the 36 feature with accuracy: 0.7076
+- Adding the 41 feature with accuracy: 0.7038
+- Adding the 42 feature with accuracy: 0.7116
+- Adding the 45 feature with accuracy: 0.705
+- Adding the 47 feature with accuracy: 0.7126
+- Adding the 48 feature with accuracy: 0.712
+- Adding the 49 feature with accuracy: 0.7106
+- Adding the 50 feature with accuracy: 0.7136
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 25, added feature 49 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49] and local maximum accuracy 0.7136
+
+On the 26th level of the search tree
+- Adding the 2 feature with accuracy: 0.704
+- Adding the 7 feature with accuracy: 0.7068
+- Adding the 9 feature with accuracy: 0.7046
+- Adding the 11 feature with accuracy: 0.7096
+- Adding the 13 feature with accuracy: 0.7088
+- Adding the 14 feature with accuracy: 0.7094
+- Adding the 15 feature with accuracy: 0.6964
+- Adding the 19 feature with accuracy: 0.7046
+- Adding the 21 feature with accuracy: 0.7022
+- Adding the 23 feature with accuracy: 0.7086
+- Adding the 25 feature with accuracy: 0.702
+- Adding the 26 feature with accuracy: 0.7052
+- Adding the 27 feature with accuracy: 0.7028
+- Adding the 28 feature with accuracy: 0.708
+- Adding the 29 feature with accuracy: 0.703
+- Adding the 32 feature with accuracy: 0.7024
+- Adding the 35 feature with accuracy: 0.705
+- Adding the 36 feature with accuracy: 0.7014
+- Adding the 41 feature with accuracy: 0.701
+- Adding the 42 feature with accuracy: 0.7086
+- Adding the 45 feature with accuracy: 0.705
+- Adding the 47 feature with accuracy: 0.7078
+- Adding the 48 feature with accuracy: 0.7026
+- Adding the 49 feature with accuracy: 0.702
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 26, added feature 10 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10] and local maximum accuracy 0.7096
+
+On the 27th level of the search tree
+- Adding the 2 feature with accuracy: 0.6946
+- Adding the 7 feature with accuracy: 0.7002
+- Adding the 9 feature with accuracy: 0.6914
+- Adding the 13 feature with accuracy: 0.7054
+- Adding the 14 feature with accuracy: 0.7038
+- Adding the 15 feature with accuracy: 0.6966
+- Adding the 19 feature with accuracy: 0.703
+- Adding the 21 feature with accuracy: 0.7024
+- Adding the 23 feature with accuracy: 0.7122
+- Adding the 25 feature with accuracy: 0.704
+- Adding the 26 feature with accuracy: 0.7046
+- Adding the 27 feature with accuracy: 0.699
+- Adding the 28 feature with accuracy: 0.7028
+- Adding the 29 feature with accuracy: 0.6976
+- Adding the 32 feature with accuracy: 0.6998
+- Adding the 35 feature with accuracy: 0.7032
+- Adding the 36 feature with accuracy: 0.696
+- Adding the 41 feature with accuracy: 0.6944
+- Adding the 42 feature with accuracy: 0.7106
+- Adding the 45 feature with accuracy: 0.7014
+- Adding the 47 feature with accuracy: 0.7102
+- Adding the 48 feature with accuracy: 0.6942
+- Adding the 49 feature with accuracy: 0.6968
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 27, added feature 22 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22] and local maximum accuracy 0.7122
+
+On the 28th level of the search tree
+- Adding the 2 feature with accuracy: 0.6976
+- Adding the 7 feature with accuracy: 0.7026
+- Adding the 9 feature with accuracy: 0.695
+- Adding the 13 feature with accuracy: 0.7008
+- Adding the 14 feature with accuracy: 0.7018
+- Adding the 15 feature with accuracy: 0.6958
+- Adding the 19 feature with accuracy: 0.701
+- Adding the 21 feature with accuracy: 0.6974
+- Adding the 25 feature with accuracy: 0.7006
+- Adding the 26 feature with accuracy: 0.7078
+- Adding the 27 feature with accuracy: 0.7004
+- Adding the 28 feature with accuracy: 0.7054
+- Adding the 29 feature with accuracy: 0.7024
+- Adding the 32 feature with accuracy: 0.6992
+- Adding the 35 feature with accuracy: 0.7056
+- Adding the 36 feature with accuracy: 0.7046
+- Adding the 41 feature with accuracy: 0.7022
+- Adding the 42 feature with accuracy: 0.7128
+- Adding the 45 feature with accuracy: 0.7074
+- Adding the 47 feature with accuracy: 0.7064
+- Adding the 48 feature with accuracy: 0.6978
+- Adding the 49 feature with accuracy: 0.6928
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 28, added feature 41 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41] and local maximum accuracy 0.7128
+
+On the 29th level of the search tree
+- Adding the 2 feature with accuracy: 0.6994
+- Adding the 7 feature with accuracy: 0.7038
+- Adding the 9 feature with accuracy: 0.7002
+- Adding the 13 feature with accuracy: 0.7076
+- Adding the 14 feature with accuracy: 0.7022
+- Adding the 15 feature with accuracy: 0.7018
+- Adding the 19 feature with accuracy: 0.7038
+- Adding the 21 feature with accuracy: 0.7018
+- Adding the 25 feature with accuracy: 0.702
+- Adding the 26 feature with accuracy: 0.7122
+- Adding the 27 feature with accuracy: 0.702
+- Adding the 28 feature with accuracy: 0.7098
+- Adding the 29 feature with accuracy: 0.7034
+- Adding the 32 feature with accuracy: 0.7068
+- Adding the 35 feature with accuracy: 0.7016
+- Adding the 36 feature with accuracy: 0.7048
+- Adding the 41 feature with accuracy: 0.7044
+- Adding the 45 feature with accuracy: 0.7098
+- Adding the 47 feature with accuracy: 0.7102
+- Adding the 48 feature with accuracy: 0.7036
+- Adding the 49 feature with accuracy: 0.7038
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 29, added feature 25 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25] and local maximum accuracy 0.7122
+
+On the 30th level of the search tree
+- Adding the 2 feature with accuracy: 0.7038
+- Adding the 7 feature with accuracy: 0.7052
+- Adding the 9 feature with accuracy: 0.7006
+- Adding the 13 feature with accuracy: 0.707
+- Adding the 14 feature with accuracy: 0.706
+- Adding the 15 feature with accuracy: 0.698
+- Adding the 19 feature with accuracy: 0.7014
+- Adding the 21 feature with accuracy: 0.7068
+- Adding the 25 feature with accuracy: 0.7054
+- Adding the 27 feature with accuracy: 0.709
+- Adding the 28 feature with accuracy: 0.7034
+- Adding the 29 feature with accuracy: 0.7004
+- Adding the 32 feature with accuracy: 0.7072
+- Adding the 35 feature with accuracy: 0.7068
+- Adding the 36 feature with accuracy: 0.7034
+- Adding the 41 feature with accuracy: 0.7018
+- Adding the 45 feature with accuracy: 0.7008
+- Adding the 47 feature with accuracy: 0.7022
+- Adding the 48 feature with accuracy: 0.6958
+- Adding the 49 feature with accuracy: 0.7048
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 30, added feature 26 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26] and local maximum accuracy 0.709
+
+On the 31th level of the search tree
+- Adding the 2 feature with accuracy: 0.6988
+- Adding the 7 feature with accuracy: 0.698
+- Adding the 9 feature with accuracy: 0.6962
+- Adding the 13 feature with accuracy: 0.7048
+- Adding the 14 feature with accuracy: 0.7024
+- Adding the 15 feature with accuracy: 0.6954
+- Adding the 19 feature with accuracy: 0.7014
+- Adding the 21 feature with accuracy: 0.7068
+- Adding the 25 feature with accuracy: 0.703
+- Adding the 28 feature with accuracy: 0.699
+- Adding the 29 feature with accuracy: 0.7008
+- Adding the 32 feature with accuracy: 0.7028
+- Adding the 35 feature with accuracy: 0.7054
+- Adding the 36 feature with accuracy: 0.696
+- Adding the 41 feature with accuracy: 0.6974
+- Adding the 45 feature with accuracy: 0.6984
+- Adding the 47 feature with accuracy: 0.703
+- Adding the 48 feature with accuracy: 0.6956
+- Adding the 49 feature with accuracy: 0.698
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 31, added feature 20 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20] and local maximum accuracy 0.7068
+
+On the 32th level of the search tree
+- Adding the 2 feature with accuracy: 0.693
+- Adding the 7 feature with accuracy: 0.695
+- Adding the 9 feature with accuracy: 0.69
+- Adding the 13 feature with accuracy: 0.6994
+- Adding the 14 feature with accuracy: 0.7022
+- Adding the 15 feature with accuracy: 0.697
+- Adding the 19 feature with accuracy: 0.706
+- Adding the 25 feature with accuracy: 0.7026
+- Adding the 28 feature with accuracy: 0.699
+- Adding the 29 feature with accuracy: 0.6916
+- Adding the 32 feature with accuracy: 0.6986
+- Adding the 35 feature with accuracy: 0.703
+- Adding the 36 feature with accuracy: 0.7044
+- Adding the 41 feature with accuracy: 0.701
+- Adding the 45 feature with accuracy: 0.6962
+- Adding the 47 feature with accuracy: 0.7082
+- Adding the 48 feature with accuracy: 0.6962
+- Adding the 49 feature with accuracy: 0.7036
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 32, added feature 46 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46] and local maximum accuracy 0.7082
+
+On the 33th level of the search tree
+- Adding the 2 feature with accuracy: 0.6956
+- Adding the 7 feature with accuracy: 0.6964
+- Adding the 9 feature with accuracy: 0.6954
+- Adding the 13 feature with accuracy: 0.698
+- Adding the 14 feature with accuracy: 0.6988
+- Adding the 15 feature with accuracy: 0.6966
+- Adding the 19 feature with accuracy: 0.6984
+- Adding the 25 feature with accuracy: 0.6968
+- Adding the 28 feature with accuracy: 0.6992
+- Adding the 29 feature with accuracy: 0.6898
+- Adding the 32 feature with accuracy: 0.6976
+- Adding the 35 feature with accuracy: 0.6988
+- Adding the 36 feature with accuracy: 0.6998
+- Adding the 41 feature with accuracy: 0.6916
+- Adding the 45 feature with accuracy: 0.6968
+- Adding the 48 feature with accuracy: 0.6918
+- Adding the 49 feature with accuracy: 0.6952
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 33, added feature 35 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35] and local maximum accuracy 0.6998
+
+On the 34th level of the search tree
+- Adding the 2 feature with accuracy: 0.6984
+- Adding the 7 feature with accuracy: 0.699
+- Adding the 9 feature with accuracy: 0.6922
+- Adding the 13 feature with accuracy: 0.694
+- Adding the 14 feature with accuracy: 0.6862
+- Adding the 15 feature with accuracy: 0.696
+- Adding the 19 feature with accuracy: 0.6928
+- Adding the 25 feature with accuracy: 0.6924
+- Adding the 28 feature with accuracy: 0.6958
+- Adding the 29 feature with accuracy: 0.6892
+- Adding the 32 feature with accuracy: 0.694
+- Adding the 35 feature with accuracy: 0.692
+- Adding the 41 feature with accuracy: 0.687
+- Adding the 45 feature with accuracy: 0.6938
+- Adding the 48 feature with accuracy: 0.6848
+- Adding the 49 feature with accuracy: 0.6914
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 34, added feature 6 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6] and local maximum accuracy 0.699
+
+On the 35th level of the search tree
+- Adding the 2 feature with accuracy: 0.693
+- Adding the 9 feature with accuracy: 0.6906
+- Adding the 13 feature with accuracy: 0.6896
+- Adding the 14 feature with accuracy: 0.6874
+- Adding the 15 feature with accuracy: 0.6908
+- Adding the 19 feature with accuracy: 0.694
+- Adding the 25 feature with accuracy: 0.699
+- Adding the 28 feature with accuracy: 0.6874
+- Adding the 29 feature with accuracy: 0.6956
+- Adding the 32 feature with accuracy: 0.6906
+- Adding the 35 feature with accuracy: 0.6852
+- Adding the 41 feature with accuracy: 0.6832
+- Adding the 45 feature with accuracy: 0.6894
+- Adding the 48 feature with accuracy: 0.6864
+- Adding the 49 feature with accuracy: 0.6892
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 35, added feature 24 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24] and local maximum accuracy 0.699
+
+On the 36th level of the search tree
+- Adding the 2 feature with accuracy: 0.6874
+- Adding the 9 feature with accuracy: 0.6864
+- Adding the 13 feature with accuracy: 0.684
+- Adding the 14 feature with accuracy: 0.6886
+- Adding the 15 feature with accuracy: 0.6856
+- Adding the 19 feature with accuracy: 0.6894
+- Adding the 28 feature with accuracy: 0.6898
+- Adding the 29 feature with accuracy: 0.6898
+- Adding the 32 feature with accuracy: 0.6852
+- Adding the 35 feature with accuracy: 0.6846
+- Adding the 41 feature with accuracy: 0.687
+- Adding the 45 feature with accuracy: 0.6872
+- Adding the 48 feature with accuracy: 0.6838
+- Adding the 49 feature with accuracy: 0.6874
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 36, added feature 27 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27] and local maximum accuracy 0.6898
+
+On the 37th level of the search tree
+- Adding the 2 feature with accuracy: 0.6896
+- Adding the 9 feature with accuracy: 0.6856
+- Adding the 13 feature with accuracy: 0.6834
+- Adding the 14 feature with accuracy: 0.6824
+- Adding the 15 feature with accuracy: 0.6842
+- Adding the 19 feature with accuracy: 0.6838
+- Adding the 29 feature with accuracy: 0.6862
+- Adding the 32 feature with accuracy: 0.6892
+- Adding the 35 feature with accuracy: 0.6842
+- Adding the 41 feature with accuracy: 0.689
+- Adding the 45 feature with accuracy: 0.6792
+- Adding the 48 feature with accuracy: 0.6742
+- Adding the 49 feature with accuracy: 0.686
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 37, added feature 1 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1] and local maximum accuracy 0.6896
+
+On the 38th level of the search tree
+- Adding the 9 feature with accuracy: 0.6834
+- Adding the 13 feature with accuracy: 0.6842
+- Adding the 14 feature with accuracy: 0.6878
+- Adding the 15 feature with accuracy: 0.6884
+- Adding the 19 feature with accuracy: 0.6868
+- Adding the 29 feature with accuracy: 0.684
+- Adding the 32 feature with accuracy: 0.6844
+- Adding the 35 feature with accuracy: 0.6828
+- Adding the 41 feature with accuracy: 0.683
+- Adding the 45 feature with accuracy: 0.6776
+- Adding the 48 feature with accuracy: 0.676
+- Adding the 49 feature with accuracy: 0.6876
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 38, added feature 14 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14] and local maximum accuracy 0.6884
+
+On the 39th level of the search tree
+- Adding the 9 feature with accuracy: 0.6844
+- Adding the 13 feature with accuracy: 0.682
+- Adding the 14 feature with accuracy: 0.682
+- Adding the 19 feature with accuracy: 0.6862
+- Adding the 29 feature with accuracy: 0.6822
+- Adding the 32 feature with accuracy: 0.6842
+- Adding the 35 feature with accuracy: 0.684
+- Adding the 41 feature with accuracy: 0.6804
+- Adding the 45 feature with accuracy: 0.685
+- Adding the 48 feature with accuracy: 0.6766
+- Adding the 49 feature with accuracy: 0.6844
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 39, added feature 18 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18] and local maximum accuracy 0.6862
+
+On the 40th level of the search tree
+- Adding the 9 feature with accuracy: 0.674
+- Adding the 13 feature with accuracy: 0.6822
+- Adding the 14 feature with accuracy: 0.6826
+- Adding the 29 feature with accuracy: 0.6822
+- Adding the 32 feature with accuracy: 0.683
+- Adding the 35 feature with accuracy: 0.6816
+- Adding the 41 feature with accuracy: 0.6838
+- Adding the 45 feature with accuracy: 0.686
+- Adding the 48 feature with accuracy: 0.677
+- Adding the 49 feature with accuracy: 0.6784
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 40, added feature 44 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44] and local maximum accuracy 0.686
+
+On the 41th level of the search tree
+- Adding the 9 feature with accuracy: 0.6782
+- Adding the 13 feature with accuracy: 0.682
+- Adding the 14 feature with accuracy: 0.6768
+- Adding the 29 feature with accuracy: 0.684
+- Adding the 32 feature with accuracy: 0.6802
+- Adding the 35 feature with accuracy: 0.6802
+- Adding the 41 feature with accuracy: 0.676
+- Adding the 48 feature with accuracy: 0.6716
+- Adding the 49 feature with accuracy: 0.68
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 41, added feature 28 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28] and local maximum accuracy 0.684
+
+On the 42th level of the search tree
+- Adding the 9 feature with accuracy: 0.682
+- Adding the 13 feature with accuracy: 0.6848
+- Adding the 14 feature with accuracy: 0.6832
+- Adding the 32 feature with accuracy: 0.677
+- Adding the 35 feature with accuracy: 0.6816
+- Adding the 41 feature with accuracy: 0.6734
+- Adding the 48 feature with accuracy: 0.676
+- Adding the 49 feature with accuracy: 0.6844
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 42, added feature 12 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12] and local maximum accuracy 0.6848
+
+On the 43th level of the search tree
+- Adding the 9 feature with accuracy: 0.677
+- Adding the 14 feature with accuracy: 0.6784
+- Adding the 32 feature with accuracy: 0.6802
+- Adding the 35 feature with accuracy: 0.6772
+- Adding the 41 feature with accuracy: 0.6744
+- Adding the 48 feature with accuracy: 0.6742
+- Adding the 49 feature with accuracy: 0.6792
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 43, added feature 31 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31] and local maximum accuracy 0.6802
+
+On the 44th level of the search tree
+- Adding the 9 feature with accuracy: 0.6688
+- Adding the 14 feature with accuracy: 0.6672
+- Adding the 35 feature with accuracy: 0.677
+- Adding the 41 feature with accuracy: 0.674
+- Adding the 48 feature with accuracy: 0.6738
+- Adding the 49 feature with accuracy: 0.6772
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 44, added feature 48 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31, 48] and local maximum accuracy 0.6772
+
+On the 45th level of the search tree
+- Adding the 9 feature with accuracy: 0.672
+- Adding the 14 feature with accuracy: 0.6704
+- Adding the 35 feature with accuracy: 0.6758
+- Adding the 41 feature with accuracy: 0.6686
+- Adding the 48 feature with accuracy: 0.6736
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 45, added feature 34 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31, 48, 34] and local maximum accuracy 0.6758
+
+On the 46th level of the search tree
+- Adding the 9 feature with accuracy: 0.6726
+- Adding the 14 feature with accuracy: 0.6652
+- Adding the 41 feature with accuracy: 0.672
+- Adding the 48 feature with accuracy: 0.6784
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 46, added feature 47 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31, 48, 34, 47] and local maximum accuracy 0.6784
+
+On the 47th level of the search tree
+- Adding the 9 feature with accuracy: 0.6716
+- Adding the 14 feature with accuracy: 0.67
+- Adding the 41 feature with accuracy: 0.6726
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 47, added feature 40 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31, 48, 34, 47, 40] and local maximum accuracy 0.6726
+
+On the 48th level of the search tree
+- Adding the 9 feature with accuracy: 0.668
+- Adding the 14 feature with accuracy: 0.6686
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 48, added feature 13 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31, 48, 34, 47, 40, 13] and local maximum accuracy 0.6686
+
+On the 49th level of the search tree
+- Adding the 9 feature with accuracy: 0.6644
+
+**Warning, Accuracy has decreased! Continuing search in case of local maxima**
+
+On level 49, added feature 8 to current set. With current features: [9, 3, 45, 17, 0, 7, 21, 32, 42, 16, 38, 2, 23, 36, 43, 39, 30, 33, 11, 19, 37, 5, 4, 15, 29, 49, 10, 22, 41, 25, 26, 20, 46, 35, 6, 24, 27, 1, 14, 18, 44, 28, 12, 31, 48, 34, 47, 40, 13, 8] and local maximum accuracy 0.6644
+
+
+
+Finished. The best subset is [9, 3] (indexes) [10, 4] (features), which has an accuracy of 0.977
